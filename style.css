@@ -1,5 +1,8 @@
+@import url("styles/header.css");
+
 :root{
     --cor-de-fundo: #24b2c5;
+    --branco: #FFFFFF;
 }
 
 body {
