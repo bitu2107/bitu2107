@@ -31,9 +31,13 @@ body{
    width: 100%;
    font-size: 32px;
 }
+
 .tituo- principal span{
+ color: var(--verde);
+}
+
+.botao{
+  font-family: "Crakra Petch", sans-serif;
 
 
-
-   
 }
